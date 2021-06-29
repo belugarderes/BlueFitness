@@ -1,0 +1,54 @@
+.contact {
+    padding: 42px;
+    background-color: #5d9ea6;
+    align-items: center;
+
+    h2 {
+        font-size: 40px;
+        font-weight: 800;
+        text-align: center;
+        letter-spacing: -1.5px;
+    }
+
+    label {
+        color: black;
+        font-size: 30px;
+    }
+}
+
+.form-group {
+    align-content: center;
+    margin-left: 20%;
+    width: 100vw;
+}
+
+.contact .form-control {
+    width: 100%;
+    padding-bottom: 30px;
+    background-color: white;
+    color: black;
+    font-size: 23px;
+    transition: all 0.3s ease;
+}
+
+.form-group textarea {
+    width: 100%;
+    height: 100px;
+    transition: all 0.4s;
+}
+
+textarea:hover {
+    width: 110%;
+    font-size: 20px;
+}
+
+.boton {
+    margin-left: 30%;
+    padding-right: 10px;
+    transition: all 0.5s ease;
+
+    :hover {
+        background-color: blue;
+        color: white;
+    }
+}

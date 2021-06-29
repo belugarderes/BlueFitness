@@ -1,0 +1,82 @@
+.about {
+    padding: 42px;
+    background-color: #5d9ea6;
+}
+.about-cont h2 {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.about-cont p {
+    margin-bottom: 25px;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+}
+.about-cont span {
+    margin-bottom: 25px;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.about-cardl {
+    margin-bottom: 20px;
+}
+
+.about-cardl .card-body span {
+    font-size: 24px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.about-cardl .card-body .fir {
+    display: inline-block;
+    margin-left: 57%;
+    font-size: 22px;
+    color: white;
+}
+.about-cardl .card-body .sec {
+    display: inline-block;
+    margin-left: 36%;
+    font-size: 22px;
+    color: gray;
+}
+.card-b {
+    padding: 0 21px;
+}
+
+.card-b h3 {
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: -3px;
+    color: white;
+}
+.card-b h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: gray;
+}
+.card-so {
+    text-align: center;
+    margin-left: auto;
+    margin-right: 50px;
+}
+.card-so i {
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 2px;
+    font-size: 19px;
+    color: gray;
+    margin-left: 45px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.card-body1 {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    background-color: black;
+}
